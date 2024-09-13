@@ -1,0 +1,9 @@
+*.log
+*.toml
+.DS_Store
+.idea
+.exe
+
+
+*.log_lock
+*.log_symlink
